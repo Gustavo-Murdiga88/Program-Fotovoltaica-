@@ -1,2 +1,2 @@
 # Program Fotovoltaica 
- Aplicação desenvolvida em C# com intuito de desenvolver uma aplicação de geração de orçamentos.
+ Aplicação desenvolvida em C# com intuito de criar uma aplicação de geração de orçamentos voltada ao ramo da energia fotovoltáica.
